@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Switch on the power line,\n";
     std::cout << "Remember to put on\n";
-    std::cout << "PROTECTION\n";
+    std::cout << "Protection\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
